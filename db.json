@@ -29,6 +29,36 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+     {
+      "id": 111,
+      "category": "animal welfare",
+      "title": "Dog Adoption Day",
+      "description": "Find your new doggy friend at this event.",
+      "location": "Woof Town",
+      "date": "January 29, 2022",
+      "time": "13:00",
+      "organizer": "Dog Laydee"
+    },
+    {
+      "id": 112,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 16, 2022",
+      "time": "09:00",
+      "organizer": "Ferno Pollin"
+    },
+    {
+      "id": 113,
+      "category": "sustainability",
+      "title": "Park Cleanup",
+      "description": "Help pick up trash along the park.",
+      "location": "Central Park",
+      "date": "July 30, 2022",
+      "time": "12:00",
+      "organizer": "Carey Trees"
     }
   ]
 }
